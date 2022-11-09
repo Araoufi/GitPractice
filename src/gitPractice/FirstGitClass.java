@@ -7,4 +7,13 @@ public class FirstGitClass {
 		System.out.println("this is test");
 	}
 
+	
+	public void main () {
+		System.out.println("Test is Test");
+	}
+	
+	
+	
+	
+	
 }
